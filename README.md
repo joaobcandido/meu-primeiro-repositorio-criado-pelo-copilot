@@ -5,3 +5,5 @@
 2. Adicionar instruções de contribuição no README.
 3. Configurar deploy contínuo, se necessário.
 
+
+> Nota: commit inicial no branch develop para abrir PR.
